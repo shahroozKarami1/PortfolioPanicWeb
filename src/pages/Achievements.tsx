@@ -6,7 +6,9 @@ import { ChevronLeft, DollarSign, Trophy, Target, Star, TrendingUp, Clock } from
 import { useNavigate } from 'react-router-dom';
 import { Progress } from '@/components/ui/progress';
 
+
 const achievements = [
+  
   {
     id: 1,
     title: 'First Million',
