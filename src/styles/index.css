@@ -2,7 +2,6 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
 @layer base {
   :root {
     --background: 220 20% 9%;
@@ -146,4 +145,8 @@
 .chart-tooltip .tooltip-value {
   color: white;
   font-weight: bold;
+}
+body ,  * {
+  font-family: Dragon !important ;  
+
 }
